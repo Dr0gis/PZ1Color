@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PZ1Color</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+
+    <!-- Content description -->
+    <string name="color_panel">Color Panel</string>
+</resources>
